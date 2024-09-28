@@ -1,4 +1,7 @@
-body{
-  background-color: blue;
+body {
+  background-color: rgba(31, 34, 53, 1);
   background-size: auto;
+}
+.div1 {
+  color: orangered;
 }
