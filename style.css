@@ -2,6 +2,15 @@ body {
   background-color: rgba(31, 34, 53, 1);
   background-size: auto;
 }
+h1{
+  color:white;
+}
 .div1 {
   color: orangered;
+}
+h3{
+  color: white;
+}
+.adress{
+  list-style-type: strong; 
 }
