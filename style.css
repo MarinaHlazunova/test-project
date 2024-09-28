@@ -1,16 +1,18 @@
 body {
   background-color: rgba(31, 34, 53, 1);
   background-size: auto;
+  colour: white;
 }
 h1{
   color:white;
 }
-.div1 {
-  color: orangered;
+.colourtext1{
+  color: #ff4500;
 }
 h3{
   color: white;
 }
 .adress{
-  list-style-type: strong; 
+  list-style-type: strong; color:white;
 }
+
