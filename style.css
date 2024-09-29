@@ -11,7 +11,35 @@ h1{
 h3{
   color: white;
 }
+/* img */
+img{
+position: absolute;
+width: 783px;
+height: 634px;
+left: 935px;
+top: 242px;
+}
+/* img */
+img{ 
+position: absolute;
+width: 572.01px;
+height: 504.17px;
+left: 982px;
+top: 4018.83px;
+}
+/* Rectangle 32 */
 .adress{
   list-style-type: strong; color:white;
+}.adress{
+ position: absolute;
+ width: 1169px;
+ height: 550px;
+ left: 376px;
+ top: 7576px;
 }
+img{
+background: url(Untitled-1.jpg);
+border-radius: 8px;
+}
+
 
