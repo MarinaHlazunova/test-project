@@ -1,3 +1,11 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white
+}
+
+
+
+
 body {
   background-color: rgba(31, 34, 53, 1);
   background-size: auto;
@@ -9,6 +17,7 @@ h1{
   color: #ff4500;
 }
 h3{
+
   color: white;
 }
 /* img */
